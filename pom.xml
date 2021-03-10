@@ -51,7 +51,7 @@
         <dependency>
             <groupId>io.prometheus</groupId>
             <artifactId>simpleclient_pushgateway</artifactId>
-            <version>0.6.0</version>
+            <version>0.10.0</version>
         </dependency>
     </dependencies>
 
